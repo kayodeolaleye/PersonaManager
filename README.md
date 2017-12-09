@@ -95,5 +95,5 @@ This feature is only working for a URL for now.
 
 URL TO CRAWL: http://www.hollywoodrag.com/category/surgery/
 
-
+![alt](https://github.com/kayodeolaleye/PersonaManager/blob/master/screenshots/screenshot2.png) ![alt](https://github.com/kayodeolaleye/PersonaManager/blob/master/screenshots/screenshot3.png)
 
